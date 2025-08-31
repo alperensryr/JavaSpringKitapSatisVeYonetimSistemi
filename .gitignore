@@ -1,0 +1,29 @@
+# Maven/Java
+/target/
+/build/
+
+# IDEs
+/.idea/
+*.iml
+/.project
+/.classpath
+/.settings/
+/.vscode/
+
+# Logs and runtime files
+/logs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Databases and secrets
+*.db
+.env
+
+# Node (just in case of frontend assets)
+/node_modules/
+
+# Keep Maven Wrapper (do NOT ignore .mvn)
+# .mvn/ is intentionally tracked to keep the wrapper scripts
